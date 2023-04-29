@@ -1,13 +1,27 @@
-# 3D-Character
+# 06-3D-RPG
+Project 6, 04/29/2023
 
-An animated 3D character that can be used in the 3D-RPG project
-
-Based on the [Kenney Character Assets](https://kenney.itch.io/kenney-character-assets) provided by kenney.nl. The model and animations were compiled in Blender and then imported into Godot.
+Player has to shoot the targets before the time runs out and before the drone shoots them.
 
 ## Implementation
+third person animated character
+camera that follows character
+textures added
+Enemy added
+Dialogue between two players
+scoring system
+weapon
 
-Created in Blender 3.5 and Godot 3.5
+## References
+https://ambientcg.com/view?id=Metal034
+https://ambientcg.com/view?id=Metal033
+https://ambientcg.com/view?id=Metal032
+https://ambientcg.com/view?id=Plastic010
+https://kenney.nl/assets/space-kit
+https://kenney.nl/assets/blaster-kit
+https://fertile-soil-productions.itch.io/modular-terrain-pack
 
-## Created By
+## Future Development
 
-Jason Francis
+## Created by
+Alli Jacobs
